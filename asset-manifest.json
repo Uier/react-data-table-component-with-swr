@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-data-table-component-with-swr/static/css/main.f29ae65a.chunk.css",
+    "main.js": "/react-data-table-component-with-swr/static/js/main.8e5955dd.chunk.js",
+    "main.js.map": "/react-data-table-component-with-swr/static/js/main.8e5955dd.chunk.js.map",
+    "runtime-main.js": "/react-data-table-component-with-swr/static/js/runtime-main.1310479e.js",
+    "runtime-main.js.map": "/react-data-table-component-with-swr/static/js/runtime-main.1310479e.js.map",
+    "static/js/2.2cdf16af.chunk.js": "/react-data-table-component-with-swr/static/js/2.2cdf16af.chunk.js",
+    "static/js/2.2cdf16af.chunk.js.map": "/react-data-table-component-with-swr/static/js/2.2cdf16af.chunk.js.map",
+    "index.html": "/react-data-table-component-with-swr/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "/react-data-table-component-with-swr/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2cdf16af.chunk.js.LICENSE.txt": "/react-data-table-component-with-swr/static/js/2.2cdf16af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1310479e.js",
+    "static/js/2.2cdf16af.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8e5955dd.chunk.js"
+  ]
+}
